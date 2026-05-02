@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sigma-gym/static/css/main.cdb73f87.css",
+    "main.js": "/sigma-gym/static/js/main.f1a1fd38.js",
+    "index.html": "/sigma-gym/index.html",
+    "main.cdb73f87.css.map": "/sigma-gym/static/css/main.cdb73f87.css.map",
+    "main.f1a1fd38.js.map": "/sigma-gym/static/js/main.f1a1fd38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb73f87.css",
+    "static/js/main.f1a1fd38.js"
+  ]
+}
