@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sigma-gym/static/css/main.cdb73f87.css",
-    "main.js": "/sigma-gym/static/js/main.cf296a3e.js",
+    "main.js": "/sigma-gym/static/js/main.673a42d6.js",
     "index.html": "/sigma-gym/index.html",
     "main.cdb73f87.css.map": "/sigma-gym/static/css/main.cdb73f87.css.map",
-    "main.cf296a3e.js.map": "/sigma-gym/static/js/main.cf296a3e.js.map"
+    "main.673a42d6.js.map": "/sigma-gym/static/js/main.673a42d6.js.map"
   },
   "entrypoints": [
     "static/css/main.cdb73f87.css",
-    "static/js/main.cf296a3e.js"
+    "static/js/main.673a42d6.js"
   ]
 }
